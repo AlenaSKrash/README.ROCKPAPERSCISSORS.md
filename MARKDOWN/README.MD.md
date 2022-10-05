@@ -29,7 +29,6 @@ __*Bold* but only partly Italic__
 
 https://docs.github.com/en
 
-[Github docs](https://docs.github.com/en)
 
 - [Header 1](#This-is-h1)
 
